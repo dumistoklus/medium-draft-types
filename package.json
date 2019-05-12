@@ -1,5 +1,5 @@
 {
-  "name": "@types/draft-js",
+  "name": "@types/medium-draft",
   "version": "1.0.0",
   "description": "",
   "main": "draft-editor.d.ts",
