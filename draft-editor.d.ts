@@ -1,3 +1,6 @@
+import * as React from 'react';
+import * as Immutable from 'immutable';
+
 export interface PluginEditorProps extends Draft.EditorProps {
     plugins?: DraftPlugin[];
     getParentMethods?: () => {
