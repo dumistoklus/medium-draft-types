@@ -1,0 +1,24 @@
+{
+  "name": "medium-draft-types",
+  "version": "1.0.0",
+  "description": "",
+  "main": "draft-editor.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/dumistoklus/medium-draft-types.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dumistoklus/medium-draft-types/issues"
+  },
+  "homepage": "https://github.com/dumistoklus/medium-draft-types#readme",
+  "dependencies": {
+    "@types/draft-js": "^0.10.31",
+    "@types/immutable": "^3.8.7",
+    "@types/react": "^16.8.17"
+  }
+}
