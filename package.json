@@ -16,9 +16,7 @@
     "url": "https://github.com/dumistoklus/medium-draft-types/issues"
   },
   "homepage": "https://github.com/dumistoklus/medium-draft-types#readme",
-  "devDependencies": {
-    "@types/draft-js": "^0.10.31",
-    "@types/immutable": "^3.8.7",
-    "@types/react": "^16.8.17"
+  "dependencies": {
+    "@types/draft-js": "^0.10.31"
   }
 }
