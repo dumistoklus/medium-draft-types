@@ -1,8 +1,7 @@
-import * as React from 'react';
-import * as Immutable from 'immutable';
-import * as Draft from 'draft-js';
-
 declare module 'medium-draft' {
+    import * as React from 'react';
+    import * as Immutable from 'immutable';
+    import * as Draft from 'draft-js';
 
     export interface PluginEditorProps extends Draft.EditorProps {
         plugins?: DraftPlugin[];
